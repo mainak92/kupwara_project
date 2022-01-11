@@ -1,0 +1,8 @@
+{
+    "realm": "HUMDARD-E-KUPWARA",
+    "auth-server-url": "http://localhost:8080/auth/",
+    "ssl-required": "external",
+    "resource": "kupwara_client",
+    "public-client": true,
+    "confidential-port": 0
+}

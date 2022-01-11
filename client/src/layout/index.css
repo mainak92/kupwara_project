@@ -1,0 +1,24 @@
+.breadcrumb .ant-breadcrumb {
+    margin-left: 18px;
+    padding: 8px;
+}
+
+.rowstyle .ant-row {
+    background-color: white;
+}
+
+.ant-layout-header {
+    border-bottom: 1px solid lightgray;
+}
+
+.ant-layout-header {
+    height: 67px;
+}
+
+.ant-modal-header {
+	background-color: #1890ff !important;
+}
+
+.ant-modal-title {
+	color: rgba(255,255,255,1) !important;
+}

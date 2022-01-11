@@ -1,0 +1,115 @@
+.indegeneCard .ant-card-head {
+    background-color: #187af7;
+    color: #ffff;
+}
+
+.indegeneCard .ant-card-bordered {
+    border-radius: 4px;
+}
+
+.indegeneCard .ant-form-item {
+    padding: 0 15px;
+    margin-bottom: 10px;
+}
+
+.indegeneCard .ant-form-item-label {
+    text-align: left;
+}
+
+.indegeneCard .ant-form-item-label label::after {
+    content: '';
+    position: relative;
+    top: -0.5px;
+    margin: 0 8px 0 2px;
+}
+
+.indegeneCard .ant-form-item-label .ant-form-item-required::after {
+    display: inline-block;
+    margin-left: 4px;
+    color: #f5222d;
+    font-size: 14px;
+    font-family: SimSun, sans-serif;
+    line-height: 1;
+    content: '*';
+}
+
+.indegeneCard .ant-form-item-required::before {
+    display: none;
+}
+
+.indegeneCard .alignTextRight {
+    text-align: right;
+}
+
+.indegeneCard .ant-card-body {
+    padding: 0px;
+}
+
+.indegeneCard .ant-table-thead>tr>th {
+    background: transparent;
+    border: transparent;
+}
+
+.indegeneCard .ant-card-wider-padding .ant-card-body {
+    padding: 0px;
+}
+
+.indegeneCard .ant-table-thead>tr>th {
+    color: #2cb9ca;
+}
+
+.indegeneCard .ant-table-pagination.ant-pagination {
+    margin-right: 10px;
+}
+
+.indegeneCard .ant-table-thead>tr,
+.ant-table-tbody>tr {
+    border-bottom: 1.5px solid #dddddd;
+}
+
+.indegeneCard .ant-collapse-header {
+    border: 1px solid #d5e4f2;
+
+}
+
+.indegeneCard .ant-collapse-content.ant-collapse-content-active {
+    border: 1px solid #d5e4f2;
+}
+
+.indegeneCard .ant-collapse-header {
+    background-color: #d5e4f2;
+    color: #2196f3;
+}
+
+.ant-collapse>.ant-collapse-item>.ant-collapse-header {
+    color: #2196f3;
+}
+
+.ant-collapse-content>.ant-collapse-content-box {
+    padding: 0px;
+}
+
+.rgd-form-element .ant-form-item {
+    width: 48%;
+    display: inline-block;
+}
+
+.app-modal.success .ant-modal-header {
+    background-color: #1890ff !important;
+}
+
+.app-modal.error .ant-modal-header {
+    background-color: #c97170 !important;
+}
+
+.app-modal.reassignment .ant-form-item-label {
+    text-align: left;
+}
+
+.app-modal.reassignment .ant-form-item-label>label {
+    color: rgba(0, 0, 0, 0.65);
+}
+
+.ant-dropdown .ant-table-filter-dropdown-btns {
+    display: none;
+}
